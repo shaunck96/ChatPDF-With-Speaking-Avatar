@@ -1,0 +1,17 @@
+langchain 
+openai 
+tiktoken 
+chromadb 
+pypdf 
+sentence_transformers 
+InstructorEmbedding
+PyMuPDF 
+Pillow
+Spire.PDF
+chromadb
+langchain_openai
+PyPDF2
+ctransformers
+faiss-cpu
+unidecode
+langchain_community
